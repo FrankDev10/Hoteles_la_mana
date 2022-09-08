@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "862211826681",
+    "project_id": "hoteladmin-4bcef",
+    "storage_bucket": "hoteladmin-4bcef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862211826681:android:860d79333c308b273d5328",
+        "android_client_info": {
+          "package_name": "com.hotelmana.hoteladmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862211826681-88qkcdpgj8ftao540o979h7ku3cqmkin.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hotelmana.hoteladmin",
+            "certificate_hash": "b17777d63f224c46daa02f0763d81b4e80c0f72a"
+          }
+        },
+        {
+          "client_id": "862211826681-urn2c1pcch3hcmrfoh6vmubomupj1v8f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc7NBToDbQGtuz30RDjmdl91VLZEayK8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "862211826681-urn2c1pcch3hcmrfoh6vmubomupj1v8f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
